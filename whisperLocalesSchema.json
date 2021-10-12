@@ -1,0 +1,613 @@
+{
+  "en": {
+    "translation": {
+      "ConfirmModal": {
+        "notNow": "Not now",
+        "loginRequired": "Login is required",
+        "continue": "Continue",
+        "goforLogin": "Go for login?",
+        "invalidateMail": "Not verified email",
+        "getEmail": "Get email again",
+        "send": "Send",
+        "close": "Close",
+        "verificationMailSent": "Verification mail is sent",
+        "checkYourMail": "Check your email",
+        "confirm": "Confirm",
+        "logout": "Logout",
+        "goforLogout": "Are you sure to logout?",
+        "cancel": "Cancel",
+        "signupRecommendDesc": "Do you have an account?",
+        "signup": "Signup",
+        "login": "Login",
+        "skip": "Skip",
+        "alreadyMember": "Already have an account?",
+        "signupRecommend": "Sign up for all function",
+        "empty": "Empty",
+        "deleteAccount": "Delete account",
+        "forsure": "your favorite list will be removed"
+      },
+      "SettingScreen": {
+        "language": "Language",
+        "preference": "Preference",
+        "general": "General",
+        "account": "Account",
+        "autoTranslation": "Auto Translation",
+        "loginDescription": "Login to use all functions for free",
+        "about": "About",
+        "deleteAccount": "Delete account",
+        "feedback": "Feedback"
+      },
+      "AboutScreen": {
+        "reportTitle": "Report a problem?",
+        "reportProblem": "Report a problem",
+        "licencesDescription": "The following list of third party software may be contained in portions of the Whisper App. We thank the open source community for their contributions.",
+        "licencesTitle": "Libraries We Use",
+        "termsSource": "https://www.softgarden.io/company/terms/",
+        "privacySource": "https://www.softgarden.io/company/terms/",
+        "imprintSource": "https://www.softgarden.io/company/terms/",
+        "policies": "LEGAL AND POLICIES",
+        "licenses": "Licenses",
+        "terms": "Terms of use",
+        "privacy": "Privacy agreement",
+        "mobileDevice": "Mobile device",
+        "operatingSystem": "Operating system",
+        "version": "Version",
+        "imprint": "Imprint",
+        "title": "Service Info"
+      },
+      "GlobalStrings": {
+        "offlineToast": "Device is Offline",
+        "noImageAvailable": "No Image",
+        "iosRequestPermission": "Settings -> Privacy -> Location -> Whisper",
+        "open": "Open",
+        "closed": "Closed",
+        "reviewNow": "Review now",
+        "shareYourOpinion": "share your precious opinion",
+        "resetMailSent": "Password reset email is sent",
+        "verificationMailSent": "Verification mail is sent",
+        "typeEmail": "Please type your email",
+        "notValidMail": "Email is not valid",
+        "failAddFavorite": "Fail to add favorite",
+        "gpsOffToast": "Cannot find GPS location"
+      },
+      "CategoryModal": {
+        "internist": "Internist",
+        "surgeon": "Surgeon",
+        "dentist": "Dentist",
+        "ophthalmology": "Eye doctor",
+        "otolaryngology": "Otolaryngology",
+        "psychologist": "Psychotherapy",
+        "pediatrics": "Pediatrics",
+        "pharmacy": "Pharmacy",
+        "veterinarian": "Veterinarian",
+        "hospital": "Hospital",
+        "dermatologist": "Dermatologist",
+        "gynecologist": "Gynecologist",
+        "urologist": "Urologist",
+        "physiotherapist": "Physiotherapist",
+        "entdoctor": "ENT doctor",
+        "emergency": "Emergency"
+      },
+      "SortingModal": {
+        "sort": "sort",
+        "whisperReview": "Whisper review",
+        "distance": "Distance",
+        "highrating": "High rating"
+      },
+      "NoResultsEmptyState": {
+        "noResults": "There is no result found",
+        "description": "Try changing search category or your location",
+        "refresh": "Refresh"
+      },
+      "RankListScreen": {
+        "whisperComments": "whisper comments",
+        "open": "Open",
+        "bestSearch": "best rating ",
+        "refresh": "Refresh",
+        "noResultSubject": "There is no result found",
+        "noResultDescription": "Try changing search category or your location",
+        "noCategorySubject": "Choose medical category",
+        "noCategoryDescription": "Whisper will find medical service around you\n( you can change your location )"
+      },
+      "TabBar": {
+        "home": "Home",
+        "favorite": "Favorite",
+        "setting": "Setting",
+        "myReviews": "My reviews",
+        "history": "History"
+      },
+      "ProfileScreen": {
+        "currently": "Currently",
+        "photos": "Photos",
+        "website": "Website",
+        "whisperReview": "Whisper's Review",
+        "detail": "Detail",
+        "edit": "Edit",
+        "title": "My review",
+        "comments": "Comments",
+        "viewMoreReviews": "More whisper reviews"
+      },
+      "NoGPSState": {
+        "gpsLoading": "GPS is loading...",
+        "description": "Check if your GPS is On"
+      },
+      "ErrorState": {
+        "somethingWrong": "Something is wrong",
+        "description": "network error",
+        "retry": "Retry"
+      },
+      "NoFavoriteState": {
+        "noResults": "your favorite list is empty",
+        "description": "save your favorite places"
+      },
+      "HistoryListScreen": {
+        "title": "History",
+        "noResultDescription": "It will show your view history",
+        "noResultSubject": "There is no result found"
+      },
+      "ReviewModal": {
+        "submit": "Submit",
+        "title": "My rating",
+        "cat100": "Hygiene",
+        "cat101": "Expertise",
+        "cat102": "Friendly",
+        "cat103": "Price",
+        "cat104": "Waiting time",
+        "inputTextPlaceholder": "type more than 20 words",
+        "notEnoughScore": "score cannot be zero",
+        "notEnoughWords": "please write more than 10 words",
+        "reviewSent": "your review is sent",
+        "reviewFail": "review failed"
+      },
+      "ReviewListScreen": {
+        "noResultSubject": "There is no result found",
+        "noResultDescription": "Try changing filter",
+        "edit": "Edit",
+        "report": "Report"
+      },
+      "ReportModal": {
+        "inappropriate": "It's inappropriate",
+        "spam": "It's spam",
+        "title": "Report",
+        "descriptionTitle": "Why are you reporting this comment?",
+        "description": "Your report is anonymous, except if you're reporting an intellectual property infringement. If someone is in immediate danger, call the local emergency services. Don't wait."
+      },
+      "LanguageScreen": {
+        "title": "Language"
+      },
+      "LoginScreen": {
+        "title": "Login",
+        "forgotPassword": "Forgot password",
+        "signup": "Sign up",
+        "loginFailed": "Login failed",
+        "password": "Password",
+        "agreeTo": "Login by agreeing to",
+        "termsAndPrivacy": "Terms & Conditions. Privacy policy"
+      },
+      "SignupScreen": {
+        "title": "Sign up",
+        "email": "Email",
+        "password": "Password",
+        "confirm": "Confirm",
+        "emailSent": "Validation mail is sent",
+        "emailFormatError": " Incorrect email format",
+        "mismatchedPassword": "Password is not matched",
+        "checkAgreeTerms": "Check agree terms"
+      }
+    }
+  },
+  "de": {
+    "translation": {
+      "ConfirmModal": {
+        "notNow": "Not now",
+        "loginRequired": "Login is required",
+        "continue": "Continue",
+        "goforLogin": "Go for login?",
+        "invalidateMail": "Not verified email",
+        "getEmail": "Get email again",
+        "send": "Send",
+        "close": "Close",
+        "verificationMailSent": "Verification mail is sent",
+        "checkYourMail": "Check your email",
+        "confirm": "Confirm",
+        "logout": "Logout",
+        "goforLogout": "Are you sure to logout?",
+        "cancel": "Cancel",
+        "signupRecommendDesc": "Do you have an account?",
+        "signup": "Signup",
+        "login": "Login",
+        "skip": "Skip",
+        "alreadyMember": "Already have an account?",
+        "signupRecommend": "Sign up for all function",
+        "empty": "Empty",
+        "deleteAccount": "Delete account",
+        "forsure": "your favorite list will be removed"
+      },
+      "SettingScreen": {
+        "language": "Sprache",
+        "preference": "Preference",
+        "general": "General",
+        "account": "Account",
+        "autoTranslation": "Auto Translation",
+        "loginDescription": "Login to use all functions for free",
+        "about": "About",
+        "deleteAccount": "Delete account",
+        "feedback": "Feedback"
+      },
+      "AboutScreen": {
+        "reportTitle": "Fehler melden?",
+        "reportProblem": "Fehler melden",
+        "licencesDescription": "Die folgende Liste von Drittanbieter-Software kann in Teilen in der softgarden App enthalten sein. Wir danken der Open-Source-Community für ihre Beiträge.",
+        "licencesTitle": "Benutzte Bibliotheken",
+        "termsSource": "https://www.softgarden.io/company/terms/",
+        "privacySource": "https://www.softgarden.io/company/terms/",
+        "imprintSource": "https://www.softgarden.io/company/terms/",
+        "policies": "RECHTLICHES",
+        "licenses": "Lizenzen",
+        "terms": "Nutzungsbedingungen",
+        "privacy": "Datenschutzerklärung",
+        "mobileDevice": "Mobiles Gerät",
+        "operatingSystem": "Betriebssystem",
+        "version": "Version",
+        "imprint": "Impressum"
+      },
+      "GlobalStrings": {
+        "offlineToast": "Gerät ist offline",
+        "noImageAvailable": "No Image",
+        "iosRequestPermission": "Settings -> Privacy -> Location -> Whisper",
+        "open": "Open",
+        "closed": "Closed",
+        "reviewNow": "Review now",
+        "shareYourOpinion": "share your precious opinion",
+        "resetMailSent": "Password reset email is sent",
+        "verificationMailSent": "Verification mail is sent",
+        "typeEmail": "Please type your email",
+        "notValidMail": "Email is not valid",
+        "failAddFavorite": "Fail to add favorite",
+        "gpsOffToast": "Cannot find GPS location"
+      },
+      "CategoryModal": {
+        "internist": "Internist",
+        "surgeon": "Chirurg",
+        "dentist": "Zahnarzt",
+        "ophthalmology": "Augenarzt",
+        "psychologist": "Psychotherapie",
+        "pediatrics": "Kinderarzt",
+        "pharmacy": "Apotheke",
+        "veterinarian": "Tierarzt",
+        "hospital": "Krankenhaus",
+        "dermatologist": "Hautarzt",
+        "gynecologist": "Gynekologie",
+        "urologist": "Urologe",
+        "physiotherapist": "Physiotherapie",
+        "entdoctor": "HNO Arzt",
+        "emergency": "notaufnahme"
+      },
+      "SortingModal": {
+        "sort": "sortieren",
+        "whisperReview": "Whisper Bewertung",
+        "distance": "Entfernung",
+        "highrating": "Hohe Bewertung"
+      },
+      "NoResultsEmptyState": {
+        "noResults": "Ergebnis nicht gefunden",
+        "description": "Versuchen Sie die Kategorie oder Position zu ändern",
+        "refresh": "Neu Laden"
+      },
+      "RankListScreen": {
+        "whisperComments": "whisper comments",
+        "open": "Open",
+        "bestSearch": "bester ",
+        "refresh": "Neu Laden",
+        "noResultSubject": "Ergebnis nicht gefunden",
+        "noResultDescription": "Versuchen Sie die Kategorie oder Position zu ändern",
+        "noCategorySubject": "Choose medical category",
+        "noCategoryDescription": "Whisper will find medical service around you\n( you can change your location )"
+      },
+      "TabBar": {
+        "home": "Start",
+        "favorite": "Favorit",
+        "setting": "Einstellung",
+        "myReviews": "Meine Bewertungen",
+        "history": "History"
+      },
+      "ProfileScreen": {
+        "currently": "Currently",
+        "photos": "Photos",
+        "website": "Website",
+        "whisperReview": "Whisper's Review",
+        "detail": "Detail",
+        "edit": "Edit",
+        "title": "My review",
+        "comments": "Comments",
+        "viewMoreReviews": "More whisper reviews"
+      },
+      "NoGPSState": {
+        "gpsLoading": "GPS is loading...",
+        "description": "Check if your GPS is On"
+      },
+      "ErrorState": {
+        "somethingWrong": "Something is wrong",
+        "description": "network error",
+        "retry": "Retry"
+      },
+      "NoFavoriteState": {
+        "noResults": "your favorite list is empty",
+        "description": "save your favorite places"
+      },
+      "HistoryListScreen": {
+        "title": "History",
+        "noResultDescription": "It will show your view history",
+        "noResultSubject": "Ergebnis nicht gefunden"
+      },
+      "ReviewModal": {
+        "submit": "Submit",
+        "title": "My rating",
+        "cat100": "Hygiene",
+        "cat101": "Expertise",
+        "cat102": "Friendly",
+        "cat103": "Price",
+        "cat104": "Waiting time",
+        "inputTextPlaceholder": "type more than 20 words",
+        "notEnoughScore": "score cannot be zero",
+        "notEnoughWords": "please write more than 10 words",
+        "reviewSent": "your review is sent",
+        "reviewFail": "review failed"
+      },
+      "ReviewListScreen": {
+        "noResultSubject": "Ergebnis nicht gefunden",
+        "noResultDescription": "Try changing filter",
+        "edit": "Edit",
+        "report": "Report"
+      },
+      "ReportModal": {
+        "inappropriate": "It's inappropriate",
+        "spam": "It's spam",
+        "title": "Report",
+        "descriptionTitle": "Why are you reporting this comment?",
+        "description": "Your report is anonymous, except if you're reporting an intellectual property infringement. If someone is in immediate danger, call the local emergency services. Don't wait."
+      },
+      "LanguageScreen": {
+        "title": "Language"
+      },
+      "LoginScreen": {
+        "title": "Login",
+        "forgotPassword": "Forgot password",
+        "signup": "Sign up",
+        "loginFailed": "Login failed",
+        "password": "Password",
+        "agreeTo": "Login by agreeing to",
+        "termsAndPrivacy": "Terms & Conditions. Privacy policy"
+      },
+      "SignupScreen": {
+        "title": "Sign up",
+        "email": "Email",
+        "password": "Password",
+        "confirm": "Confirm",
+        "emailSent": "Validation mail is sent",
+        "emailFormatError": " Incorrect email format",
+        "mismatchedPassword": "Password is not matched",
+        "checkAgreeTerms": "Check agree terms"
+      }
+    }
+  },
+  "pl": {
+    "translation": {
+      "ConfirmModal": {},
+      "SettingScreen": {
+        "language": "Jeżyk"
+      },
+      "AboutScreen": {
+        "reportTitle": "Zgłosić problem?",
+        "reportProblem": "Zgłoś problem",
+        "licencesDescription": "Poniższa lista oprogramowania zewnętrznych dostawców może być zawarta w częściach aplikacji softgarden. Dziękujemy społeczności open source za jej wkład.",
+        "licencesTitle": "Biblioteki, których używamy",
+        "termsSource": "https://www.softgarden.de/unternehmen/nutzungsbedingungen/",
+        "privacySource": "https://www.softgarden.de/unternehmen/nutzungsbedingungen/",
+        "imprintSource": "https://www.softgarden.de/unternehmen/nutzungsbedingungen/",
+        "policies": "PRZEPISY PRAWNE I ZASADY",
+        "licenses": "Licencje",
+        "terms": "Warunki korzystania",
+        "privacy": "Polityka prywatności",
+        "mobileDevice": "Urządzenie mobilne",
+        "operatingSystem": "System operacyjny",
+        "version": "Wersja",
+        "imprint": "Imprint"
+      },
+      "GlobalStrings": {
+        "offlineToast": "Urządzenie jest offline"
+      },
+      "CategoryModal": {
+        "internist": "specjalista chorób wewnętrznych",
+        "surgeon": "chirurg",
+        "dentist": "dentysta",
+        "ophthalmology": "okulista",
+        "psychologist": "psychoterapia",
+        "pediatrics": "Pediatria",
+        "pharmacy": "apteka",
+        "veterinarian": "weterynasz",
+        "hospital": "Szpital",
+        "dermatologist": "dermatolog",
+        "gynecologist": "Ginekolog",
+        "urologist": "Urolog",
+        "physiotherapist": "Fizjoterapia",
+        "entdoctor": "laryngolog"
+      },
+      "SortingModal": {
+        "sort": "sortować",
+        "whisperReview": "Whisper recenzja",
+        "distance": "dystans",
+        "highrating": "wysoka recenzja"
+      },
+      "NoResultsEmptyState": {
+        "noResults": "Wynik nie został znależiony",
+        "description": "Spróboj zmienić kategorje albo lokalizacje",
+        "refresh": "załadować na nowo"
+      },
+      "RankListScreen": {
+        "bestSearch": "najlepszy ",
+        "refresh": "załadować na nowo",
+        "noResultSubject": "Wynik nie został znależiony",
+        "noResultDescription": "Spróboj zmienić kategorje albo lokalizacje"
+      },
+      "TabBar": {
+        "home": "Dom",
+        "favorite": "Ulubiony",
+        "setting": "Ustawienia",
+        "myReviews": "Moje recenzje"
+      },
+      "ProfileScreen": {},
+      "NoGPSState": {},
+      "ErrorState": {},
+      "NoFavoriteState": {},
+      "HistoryListScreen": {
+        "noResultSubject": "Wynik nie został znależiony"
+      },
+      "ReviewModal": {},
+      "ReviewListScreen": {
+        "noResultSubject": "Wynik nie został znależiony",
+        "noResultDescription": "Try changing filter"
+      },
+      "ReportModal": {},
+      "LanguageScreen": {},
+      "LoginScreen": {},
+      "SignupScreen": {}
+    }
+  },
+  "es": {
+    "translation": {
+      "ConfirmModal": {},
+      "SettingScreen": {},
+      "AboutScreen": {
+        "reportTitle": "¿Notificar un problema?",
+        "reportProblem": "Notificar un problema",
+        "licencesDescription": "La siguiente lista de software de terceros puede estar contenida en partes de la aplicación softgarden. Agradecemos a la comunidad de código abierto sus contribuciones.",
+        "licencesTitle": "Las bibliotecas que usamos",
+        "termsSource": "https://www.softgarden.io/company/imprint/",
+        "privacySource": "https://www.softgarden.io/company/imprint/",
+        "imprintSource": "https://www.softgarden.io/company/imprint/",
+        "policies": "Normas y políticas",
+        "licenses": "Licencias",
+        "terms": "Condiciones de uso",
+        "privacy": "Política de privacidad",
+        "mobileDevice": "Dispositivo móvil",
+        "operatingSystem": "Sistema operativo",
+        "version": "Versión",
+        "imprint": "Aviso legal",
+        "title": "Service Info"
+      },
+      "GlobalStrings": {
+        "offlineToast": "El dispositivo no está conectado a internet"
+      },
+      "CategoryModal": {},
+      "SortingModal": {},
+      "NoResultsEmptyState": {},
+      "RankListScreen": {},
+      "TabBar": {},
+      "ProfileScreen": {},
+      "NoGPSState": {},
+      "ErrorState": {},
+      "NoFavoriteState": {},
+      "HistoryListScreen": {},
+      "ReviewModal": {},
+      "ReviewListScreen": {},
+      "ReportModal": {},
+      "LanguageScreen": {},
+      "LoginScreen": {},
+      "SignupScreen": {}
+    }
+  },
+  "ko": {
+    "translation": {
+      "ConfirmModal": {
+        "notNow": "다음에",
+        "loginRequired": "로그인이 필요한 서비스 입니다",
+        "continue": "계속",
+        "goforLogin": "로그인 하시겠습니까?",
+        "invalidateMail": "인증되지 않은 메일입니다.",
+        "getEmail": "이메일 다시 받기",
+        "send": "전송",
+        "close": "닫기",
+        "verificationMailSent": "인증 메일이 발송되었습니다",
+        "checkYourMail": "이메일을 확인 해주세요",
+        "confirm": "확인",
+        "logout": "로그아웃",
+        "goforLogout": "로그아웃 하시겠습니까?",
+        "cancel": "취소"
+      },
+      "SettingScreen": {
+        "language": "언어"
+      },
+      "AboutScreen": {
+        "reportTitle": "오류 보고?",
+        "reportProblem": "오류 보고",
+        "licencesDescription": "다음의 제3 자 소프트웨어 목록은 위스퍼 앱의 일부에 포함될 수 있습니다.  오픈 소스 커뮤니티에 감사드립니다.",
+        "licencesTitle": "사용중인 라이브러리",
+        "termsSource": "https://www.softgarden.io/company/terms/",
+        "privacySource": "https://www.softgarden.io/company/terms/",
+        "imprintSource": "https://www.softgarden.io/company/terms/",
+        "policies": "운영정책",
+        "licenses": "라이센스",
+        "terms": "이용약관",
+        "privacy": "개인정보보호",
+        "mobileDevice": "디바이스",
+        "operatingSystem": "운영체제",
+        "version": "버젼",
+        "imprint": "업체정보",
+        "title": "서비스 정보"
+      },
+      "GlobalStrings": {},
+      "CategoryModal": {
+        "internist": "내과",
+        "surgeon": "외과",
+        "dentist": "치과",
+        "ophthalmology": "안과",
+        "psychologist": "심리상담",
+        "pediatrics": "소아과",
+        "pharmacy": "약국",
+        "veterinarian": "동물병원",
+        "hospital": "병원",
+        "dermatologist": "피부과",
+        "gynecologist": "산부인과",
+        "urologist": "비뇨기과",
+        "physiotherapist": "물리치료",
+        "entdoctor": "이비인후과"
+      },
+      "SortingModal": {
+        "sort": "정렬",
+        "whisperReview": "위스퍼 리뷰",
+        "distance": "가까운 거리",
+        "highrating": "높은 평점"
+      },
+      "NoResultsEmptyState": {
+        "noResults": "검색 결과가 없습니다.",
+        "description": "검색 조건 혹은 위치를 변경해보세요",
+        "refresh": "다시 검색"
+      },
+      "RankListScreen": {
+        "open": "영업중",
+        "bestSearch": "best rating "
+      },
+      "TabBar": {
+        "home": "홈",
+        "favorite": "즐겨찾기",
+        "setting": "설정",
+        "myReviews": "내 리뷰"
+      },
+      "ProfileScreen": {},
+      "NoGPSState": {
+        "gpsLoading": "위치 찾기 로딩중 ...",
+        "description": "위치정보가 켜져있는지 확인하세요"
+      },
+      "ErrorState": {},
+      "NoFavoriteState": {},
+      "HistoryListScreen": {},
+      "ReviewModal": {},
+      "ReviewListScreen": {},
+      "ReportModal": {},
+      "LanguageScreen": {},
+      "LoginScreen": {},
+      "SignupScreen": {}
+    }
+  }
+}
